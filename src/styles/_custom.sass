@@ -1,19 +1,204 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: scale 5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 50%
+    right: 52%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
+    top: 33%
+    right: 50%
+  &-3
+    animation: float2 6.5s ease-in-out infinite alternate
+    position: absolute
+    top: 16%
+    left: 22%
+  &-4
+    animation: float2 8.5s ease-in-out infinite alternate
+    position: absolute
+    top: 22%
     right: 30%
+  &-5
+    animation: float2 9.5s ease-in-out infinite alternate
+    position: absolute
+    top: 15%
+    right: 20%
 
+@keyframes scale
+  0%
+    transform: scale(0.7)
+  100%
+    transform: scale(1)
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
+    transform: translateY(30px)
   100%
     transform: translateY(0px)
+  
+@keyframes float2
+  0%
+    transform: translateX(30px)
+  100%
+    transform: translateX(0px)
+
+@keyframes slidein
+  from
+    margin-left: 100%
+    width: 25%
+  to
+    margin-left: 0%
+    width: 100%
+
+.animation-1
+  animation-duration: 5s
+  animation-name: slidein
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span, .pasos-a.color-acento-contenido .pasos-a__circle div
+  color: $white
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG03
+  background-image: url("../assets/curso/fondos/img03.png")
+
+.BGIMG04
+  background-image: url("../assets/curso/fondos/img04.png")
+
+.BGIMG05
+  background-image: url("../assets/curso/fondos/img05.png")
+
+.BGIMG01, .BGIMG02, .BGIMG03, .BGIMG04, .BGIMG05
+  background-size: 100% 100% 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGM02, .BGIMG02
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.BGIMG01, .BGR01, .BGR03, .BGR04, .BGR04A, .BGIMG04, .BGIMG05, .BGR05
+  border-radius: 10px
+
+.cajon.color-primario
+  background-color: #A6D7D1
+
+.cajon.color-secundario
+  background-color: #D2E1F1
+
+.cajon.color-acento-botones
+  background-color: #FAE3AE
+
+.cajon-b.color-primario:before
+  background-color: #C4E4E1
+  opacity: unset
+
+.cajon-b.color-acento-botones:before
+  background-color: #FCEDC9
+  opacity: unset
+
+.tabs-a.color-primario .tabs-a__tab__selected, .tabs-a.color-primario .tabs-a__tab__selected:before, .tabs-a.color-primario .tabs-a__tab:hover, .tabs-a.color-primario .tabs-a__tab:focus
+  background-color: #3BC192
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+.BGR01
+  background-color: #F6F6F6
+
+.BGR01 .acordion__activo
+  background-color: #E8E8E8
+
+.BGM02
+  background: linear-gradient(to bottom, #fff, #CFE8E5)
+
+.BGR03
+  background-color: #FCEDC9
+
+.BGR04, .BGR04A
+  background-color: #FBD2D6
+
+.BGR05
+  background-color: #D0EAE7
+
+.img-inv .bloque-texto-g__texto
+  left: -40%
+  @media (max-width: $bp-max-md)
+    left: 0
+
+.img-inv .bloque-texto-g__img
+  left: 50%
+  @media (max-width: $bp-max-md)
+    left: 0
+  
+.img-end.cajon-b:before
+  top: 70%
+  bottom: 0
+  left: 55%
+  right: 0
+
+.img-end-a.cajon-b:before
+  top: 32%
+  bottom: 0
+  left: 55%
+  right: 0
+
+.img-full.cajon-b.color-acento-botones:before
+  right: 70%
+  bottom: 0
+
+.BGR03
+  height: 531px
+  @media (max-width: $bp-max-xl)
+    height: 550px
+  @media (max-width: $bp-max-lg)
+    height: 521px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.BGR04
+  height: 251px
+  @media (max-width: $bp-max-xl)
+    height: 275px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.BGR04A
+  height: 275px
+  @media (max-width: $bp-max-xl)
+    height: 347px
+  @media (max-width: $bp-max-lg)
+    height: 275px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.BGR05
+  height: 155px
+  @media (max-width: $bp-max-lg)
+    height: 179px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.slyder-a__bullets__item--active
+  background-color: #1B3F5E !important
+
+.slyder-a__bullets__item
+  background-color: #97B1BA
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #F4F4F5
+  @media (max-width: $bp-max-xs)
+    width: 25px
+    height: 25px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 7px
+    height: 7px
+    margin: 0 5px
