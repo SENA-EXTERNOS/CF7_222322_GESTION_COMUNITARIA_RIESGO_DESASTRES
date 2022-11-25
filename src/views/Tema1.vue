@@ -7,7 +7,7 @@
         span 1
       h1 Acciones de capacitación y sensibilización
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-2
       .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
         p Las acciones de capacitación son adelantadas en todo tipo de contexto en el cual se requiera ampliar el conocimiento de un tema específico. Estas acciones se ven relacionadas en cualquier nivel de la sociedad, aunque en algunos casos no se imparten las temáticas necesarias para la prevención del riesgo de desastres. La educación ambiental propone estrategias para llevar el conocimiento en temáticas ambientales a las comunidades que están en zonas vulnerables y que puedan atravesar por una situación de emergencia.
         p.mb-0 La capacitación comunitaria permite que los conceptos claves se afiancen y se pongan en práctica para evitar futuras catástrofes ambientales. El objetivo principal de educar en temas de riesgos ambientales es la toma de conciencia frente a las acciones que puedan acarrear afectaciones directas a la salud humana y a los recursos naturales.
@@ -28,7 +28,7 @@
       .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img02.svg")
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
         AcordionA.mb-5(tipo="a" clase-tarjeta="BGR01")
           div(titulo="Función representativa")
@@ -327,39 +327,39 @@
 
     .BGIMG04.p-4.mb-5(data-aos="zoom-in")
       SlyderA(tipo="b")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center
           .col-lg-4.order-lg-1.order-2(data-aos="fade-right")
-            .h4 Hoja de recopilación de datos
+            .h4.mb-5 Hoja de recopilación de datos
             p.mb-0 Es un documento en el que, de forma sencilla y estructurada, se recoge todo tipo de datos para un posterior análisis. La hoja está diseñada para indicar la frecuencia de la observación y  en favor de los datos que se recogen y se apuntan. Esta hoja de recopilación se utiliza para medir defectos en productos, las causas de dichos defectos, la clasificación de los productos que están defectuosos y la variación de sus características.
           .col-lg-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
             img(src="@/assets/curso/tema1/img36.svg")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center
           .col-lg-4.order-lg-1.order-2(data-aos="fade-right")
-            .h4 Diagrama de Pareto
+            .h4.mb-5 Diagrama de Pareto
             p.mb-0 Es una forma de representar los datos dentro de un gráfico de frecuencias, de manera que estén organizados de mayor a menor. De esta forma se pueden identificar las principales causas de la mayor parte de los errores cometidos. Ese diagrama se utiliza para identificar y dar prioridad a los problemas más relevantes de cada proceso organizacional.
           .col-lg-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
             img(src="@/assets/curso/tema1/img37.svg")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center
           .col-lg-4.order-lg-1.order-2(data-aos="fade-right")
-            .h4 Diagrama de dispersión
+            .h4.mb-5 Diagrama de dispersión
             p.mb-0 Permite estudiar la existencia de una relación entre dos variables. Es de gran utilidad en la solución de problemas de un proceso, ya que se puede comprobar qué factores influyen en la dispersión de una característica de calidad.
           .col-lg-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
             img(src="@/assets/curso/tema1/img38.svg")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center
           .col-lg-4.order-lg-1.order-2(data-aos="fade-right")
-            .h4 Diagrama causa-efecto
+            .h4.mb-5 Diagrama causa-efecto
             p.mb-0 Es una herramienta usada para estudiar de manera estructurada todas las posibles causas que pueden generar variaciones en un proceso. Dentro de las causas más comunes se encuentran las 6M: variaciones en las máquinas o equipos, en el material de entrado al proceso, en el método o procedimiento, en los operarios o mano de obra, en el medio ambiente y en las medidas.
           .col-lg-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
             img(src="@/assets/curso/tema1/img39.svg")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center
           .col-lg-4.order-lg-1.order-2(data-aos="fade-right")
-            .h4 Histograma
+            .h4.mb-5 Histograma
             p.mb-0 Es la presentación de las medidas ordenadas en filas y columnas en las que se determina un número máximo y uno mínimo. Posteriormente se agregan dos columnas en donde se registran los números máximos y mínimos por fila de los anteriormente señalados. El histograma se utiliza para obtener una comunicación efectiva de la variabilidad del sistema, mostrar resultados de los cambios, identificar anormalidades y comparar la variabilidad con los límites que se especificaron.
           .col-lg-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
             img(src="@/assets/curso/tema1/img40.svg")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center
           .col-lg-4.order-lg-1.order-2(data-aos="fade-right")
-            .h4 Estratificación
+            .h4.mb-5 Estratificación
             p.mb-0 Permite la clasificación de la información recolectada sobre características de calidad. Esta información debe ser clasificada de acuerdo con los operadores de cada proceso, con la seguridad de que los factores hayan sido asumidos por cada uno de ellos.
           .col-lg-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
             img(src="@/assets/curso/tema1/img41.svg")
