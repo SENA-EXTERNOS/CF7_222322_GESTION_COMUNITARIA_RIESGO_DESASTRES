@@ -272,14 +272,15 @@
           p.mb-0 Según las formas del lenguaje, existen diferentes maneras de expresión mediante las cuales se hace entender una idea, entre ellas: artística, literaria, poética, teatral, corporal y facial.
 
     .row.justify-content-center.mb-4
-      .col-lg-10
-        .bloque-texto-g.color-acento-contenido.img-inv.p-3.p-sm-4.p-md-5
+      .col-xl-10
+        .bloque-texto-g.color-acento-contenido.img-inv-a.p-md-5.p-sm-4.p-3
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img28.svg')})`}"
           )(data-aos="fade-right")
-          .bloque-texto-g__texto.p-4(data-aos="fade-left")
-            p.mb-0 La expresión oral es el conjunto de técnicas que determinan las pautas generales a tener en cuenta para que la comunicación oral sea efectiva y sirve como un instrumento para comunicar acerca de procesos u objetos. Es necesario entender que la expresión oral es más amplia que el habla, pues requiere de elementos paralingüísticos para que su significado final sea completo; se necesita, entonces, no solo conocimiento del idioma, sino también de elementos no verbales que aportan validez a lo que se quiere expresar.<br><br>La expresión escrita expone de forma ordenada utilizando signos gráficos convencionales, cualquier pensamiento o idea. 
-
+          .bloque-texto-g__texto.p-xl-4.p-3(data-aos="fade-left")
+            p.mb-0 La expresión oral es el conjunto de técnicas que determinan las pautas generales a tener en cuenta para que la comunicación oral sea efectiva y sirve como un instrumento para comunicar acerca de procesos u objetos. Es necesario entender que la expresión oral es más amplia que el habla, pues requiere de elementos paralingüísticos para que su significado final sea completo; se necesita, entonces, no solo conocimiento del idioma, sino también de elementos no verbales que aportan validez a lo que se quiere expresar.
+    
+    p La expresión escrita expone de forma ordenada utilizando signos gráficos convencionales, cualquier pensamiento o idea.
     .BGIMG02.px-md-5.px-4.pb-2.mb-4(data-aos="zoom-in")
       p.mb-5 Existen diferentes tipos de textos de expresión escrita:
       SlyderF.mb-4(columnas="col-lg-6 col-xl-4")
@@ -442,7 +443,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         TabsA.color-primario
-          .BGIMG05.p-4(titulo="Criterios de evaluación")
+          .BGIMG05.p-4(titulo="Criterios")
             .h4 Criterios de evaluación
             p.mb-0 Son el referente específico para evaluar el aprendizaje de los estudiantes ya que describen lo que se quiere valorar y lo que se espera que el alumno logre, tanto en competencias como en conocimiento.
           .BGIMG05.p-4(titulo="Especificaciones")
