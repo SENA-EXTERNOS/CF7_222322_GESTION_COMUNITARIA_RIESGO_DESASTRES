@@ -141,13 +141,13 @@
             .col-lg-7.col-5
               img(src='@/assets/curso/tema1/img14.svg' alt='AvatarTop')
           .h4.text-center Estudio de caso
-          p.text-center.mb-0 Se describe una situación real o ficticia siguiendo el planteamiento de un problema al que los estudiantes deben dar solución. 
+          p.text-center.mb-0 Se describe una situación real o ficticia siguiendo el planteamiento de un problema al que los aprendices deben dar solución. 
         .BGR03.p-4
           .row.justify-content-center.mb-3
             .col-lg-7.col-5
               img(src='@/assets/curso/tema1/img15.svg' alt='AvatarTop')
           .h4.text-center Exposición
-          p.text-center.mb-0 Técnica en la que un estudiante realiza ante un grupo la presentación oral de un tema.
+          p.text-center.mb-0 Técnica en la que un aprendiz realiza ante un grupo la presentación oral de un tema.
         .BGR03.p-4
           .row.justify-content-center.mb-3
             .col-lg-7.col-5
@@ -171,7 +171,7 @@
             .col-lg-7.col-5
               img(src='@/assets/curso/tema1/img19.svg' alt='AvatarTop')
           .h4.text-center Debate o discusión guiada
-          p.text-center.mb-0 Se basa en el intercambio informal de ideas, información u opiniones. Lo realizan grupos de alumnos que, moderados por otro estudiante que funge de guía, plantean interrogantes para conducir la discusión.
+          p.text-center.mb-0 Se basa en el intercambio informal de ideas, información u opiniones. Lo realizan grupos de alumnos que, moderados por otro aprendiz que funge de guía, plantean interrogantes para conducir la discusión.
         .BGR03.p-4
           .row.justify-content-center.mb-3
             .col-lg-7.col-5
@@ -370,8 +370,8 @@
         .col-lg-3.col-6.mb-lg-0.mb-4.mt-4.p-2
           img(src="@/assets/curso/tema1/img42.svg")
         .col-lg-8
-          p.text-white La evaluación formativa tiene lugar durante el proceso de enseñanza-aprendizaje y como finalidad busca detectar las dificultades y los progresos de los estudiantes. 
-          p.text-white.mb-0 La evaluación formativa autonomiza al estudiante y le ofrece la iniciativa de conducción de su propio proceso de aprendizaje y la posibilidad de una profundización, de un cambio y de una consolidación en los procesos del aprendizaje.
+          p.text-white La evaluación formativa tiene lugar durante el proceso de enseñanza-aprendizaje y como finalidad busca detectar las dificultades y los progresos de los aprendices. 
+          p.text-white.mb-0 La evaluación formativa autonomiza al aprendiz y le ofrece la iniciativa de conducción de su propio proceso de aprendizaje y la posibilidad de una profundización, de un cambio y de una consolidación en los procesos del aprendizaje.
 
     p Estas son algunas características de la evaluación formativa: 
     
@@ -445,10 +445,10 @@
         TabsA.color-primario
           .BGIMG05.p-4(titulo="Criterios")
             .h4 Criterios de evaluación
-            p.mb-0 Son el referente específico para evaluar el aprendizaje de los estudiantes ya que describen lo que se quiere valorar y lo que se espera que el alumno logre, tanto en competencias como en conocimiento.
+            p.mb-0 Son el referente específico para evaluar el aprendizaje de los aprendices ya que describen lo que se quiere valorar y lo que se espera que el alumno logre, tanto en competencias como en conocimiento.
           .BGIMG05.p-4(titulo="Especificaciones")
             .h4 Especificaciones
-            p.mb-0 Estas permiten definir en los criterios de evaluación los resultados de aprendizaje y concretar lo que el estudiante debe saber hacer y comprender en dicha asignatura. Los resultados deben ser medibles, observables y evaluables.
+            p.mb-0 Estas permiten definir en los criterios de evaluación los resultados de aprendizaje y concretar lo que el aprendiz debe saber hacer y comprender en dicha asignatura. Los resultados deben ser medibles, observables y evaluables.
           .BGIMG05.p-4(titulo="Finalidad")
             .h4 ¿Cuál es la finalidad de los criterios de evaluación y las especificaciones?
             p.mb-0 Ambos deben ser los referentes para la comprobación del grado de adquisición de las competencias y el logro de los objetivos de la etapa en las evaluaciones continua y final de la materia.
@@ -501,14 +501,14 @@
             img(src='@/assets/curso/tema1/img55.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.BGR05.p-4
             .h4.ms-5 Obtener
-            p.mb-0.ms-5 Obtener información para la toma de decisiones que impacten el mejoramiento del estudiante.
+            p.mb-0.ms-5 Obtener información para la toma de decisiones que impacten el mejoramiento del aprendiz.
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema1/img56.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.BGR05.p-4
             .h4.ms-5 Identificar
-            p.mb-0.ms-5 Identificar el desempeño del estudiante dentro de los criterios y estándares establecidos.
+            p.mb-0.ms-5 Identificar el desempeño del aprendiz dentro de los criterios y estándares establecidos.
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
@@ -522,9 +522,9 @@
             img(src='@/assets/curso/tema1/img58.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.BGR05.p-4
             .h4.ms-5 Comunicar
-            p.mb-0.ms-5 Comunicar al estudiante acerca del proceso y resultado de la medición para que mejore su aprendizaje.
+            p.mb-0.ms-5 Comunicar al aprendiz acerca del proceso y resultado de la medición para que mejore su aprendizaje.
 
-    p Se pueden utilizar hasta seis fórmulas para evaluar lo que aprenden los estudiantes según el objetivo y el momento. Ahora se explicará en qué consiste cada una de las seis formas de evaluar propuestas:
+    p Se pueden utilizar hasta seis fórmulas para evaluar lo que aprenden los aprendices según el objetivo y el momento. Ahora se explicará en qué consiste cada una de las seis formas de evaluar propuestas:
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       TabsC.color-primario
@@ -539,19 +539,19 @@
             img(src="@/assets/curso/tema1/img61.svg")
           .col-lg-6
             .h4 Evaluación formativa
-            p.mb-0 Evalúa el rendimiento de un alumno durante la formación. Por lo general, se produce regularmente durante todo el proceso de instrucción; es como un repaso para poder revisar la idoneidad de la formación recibida en caso de que fuese necesario realizar modificaciones al método de enseñanza.
+            p.mb-0 Evalúa el rendimiento de un aprendiz durante la formación. Por lo general, se produce regularmente durante todo el proceso de instrucción; es como un repaso para poder revisar la idoneidad de la formación recibida en caso de que fuese necesario realizar modificaciones al método de enseñanza.
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Evaluación sumativa")
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img62.svg")
           .col-lg-6
             .h4 Evaluación sumativa
-            p.mb-0 Mide el rendimiento de un estudiante al final de la formación. Es la forma de saber qué ha aprendido y qué no.
+            p.mb-0 Mide el rendimiento de un aprendiz al final de la formación. Es la forma de saber qué ha aprendido y qué no.
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Evaluación por medias")
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img63.svg")
           .col-lg-6
             .h4 Evaluación por medias
-            p.mb-0 Compara el desempeño de un estudiante con el de otros compañeros (as). Es una especie de evaluación grupal o “demográfica” que ayuda al docente a obtener medias y sacar conclusiones generales.
+            p.mb-0 Compara el desempeño de un aprendiz con el de otros compañeros (as). Es una especie de evaluación grupal o “demográfica” que ayuda al docente a obtener medias y sacar conclusiones generales.
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Evaluación basada en objetivos")
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img64.svg")
@@ -563,7 +563,7 @@
             img(src="@/assets/curso/tema1/img65.svg")
           .col-lg-6
             .h4 Evaluación intermedia o de referencia
-            p.mb-0 Evalúa el rendimiento del alumno por intervalos de tiempo. Normalmente coincide con el final de períodos de calificación: meses, trimestres, etc. Ayuda a predecir el rendimiento de los estudiantes en las evaluaciones acumulativas de final de año.
+            p.mb-0 Evalúa el rendimiento del alumno por intervalos de tiempo. Normalmente coincide con el final de períodos de calificación: meses, trimestres, etc. Ayuda a predecir el rendimiento de los aprendices en las evaluaciones acumulativas de final de año.
             
     .BGIMG03.p-4.mb-4(data-aos="flip-up")
       .row.justify-content-around.align-items-center
@@ -571,7 +571,7 @@
           img(src="@/assets/curso/tema1/img66.svg")
         .col-lg-7
           p.text-white Las listas de asistencia son todos aquellos documentos que tienen como finalidad llevar un registro de la presencia de personas en un evento que puede ser único o puede tener continuidad. El seguimiento a la asistencia es una actividad que ayuda a gestionar la participación en eventos, clases o reuniones de todo tipo. 
-          p.text-white.mb-0 En los aspectos educativos las listas son esenciales para rastrear la presencia y el aporte de los estudiantes, así como las veces en que se presentan ausencias o tardanzas. El objetivo principal de estos listados es que se puedan resolver problemas de una forma eficiente a fin de establecer tiempos y entregables de las actividades académicas. 
+          p.text-white.mb-0 En los aspectos educativos las listas son esenciales para rastrear la presencia y el aporte de los aprendices, así como las veces en que se presentan ausencias o tardanzas. El objetivo principal de estos listados es que se puedan resolver problemas de una forma eficiente a fin de establecer tiempos y entregables de las actividades académicas. 
 
     p Estos formatos también son empleados para tener un control dentro de las organizaciones, bien sea durante una capacitación o en la asistencia puntual a los sitios de trabajo. Estos instrumentos también se utilizan para entregar recompensas por la puntualidad y asistencia. 
     p Para que estos listados puedan cumplir con su objetivo es necesario que contengan varios indicadores individuales y algunos otros según la complejidad que se tenga. Algunos de los ítems que se encuentran en estos listados son: 
