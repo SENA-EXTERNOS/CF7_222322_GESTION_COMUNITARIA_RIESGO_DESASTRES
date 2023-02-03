@@ -88,7 +88,7 @@
         div(titulo="Crear")
           p.mb-0 Crear campañas de sensibilización establecidas mediante estrategias que planteen alternativas de comunicar el conocimiento de prevención de riesgos. La metodología se debe seleccionar según el grupo poblacional al cual se le vaya a impartir esta campaña, mientras los niveles de vulnerabilidad deben influir en la separación de los grupos.
         div(titulo="Propósito")
-          p.mb-0 El propósito de toda campaña de sensibilización es reducir los riesgos; por lo tanto, representa una herramienta que se puede utilizar en los preparativos que se requieran ante una emergencia mediante la notificación con sistemas de alertas temprana y la interacción con los programas de recuperación, construcción o restauración ante una situación de desastre. Al mismo tiempo, las campañas son un instrumento de toma de conciencia sobre los riesgos, y un motor para impulsar y promover la participación de la gente y su compromiso con una vida más segura, el bienestar y el desarrollo humano sostenible.
+          p.mb-0 El propósito de toda campaña de sensibilización, se fundamenta en reducir los riesgos; por lo tanto, representa una herramienta que se puede utilizar en los preparativos que se requieran ante una emergencia, mediante la notificación con sistemas de alertas tempranas y la interacción con los programas de recuperación, construcción o restauración, ante una situación de desastre. Al mismo tiempo, las campañas son un instrumento para la toma de conciencia sobre los riesgos, y un motor para impulsar y promover la participación de la colectividad y su compromiso con una vida más segura, el bienestar y el desarrollo humano sostenible.
         div(titulo="Proceso")
           p.mb-0 Para que se consolide el proceso de sensibilización en procesos de prevención del riesgo se requiere de un compromiso permanente de los entes de atención a emergencias y de las comunidades que se encuentran en zonas de alta vulnerabilidad. Las dos partes deben ejercer sus funciones dentro de la sociedad de manera organizada y proyectada a un fin común que promueva el bienestar físico y emocional, el cambio de conductas y el refuerzo de comportamientos seguros que disminuyan de manera eficaz el riesgo.
 
@@ -244,7 +244,7 @@
       .col-lg-9
         img(src="@/assets/curso/tema1/img26.svg")
     
-    .h4 Encuentros entre entidades de salud y gestores territoriales
+    p.my-4 A continuación, observemos el siguiente video, para aprender más acerca del tema sobre encuentros entre entidades de salud y gestores territoriales:
 
     figure(data-aos="zoom-in")
       .video
@@ -626,8 +626,7 @@
         img(src="@/assets/curso/tema1/img75.svg")
       .col-lg-7(data-aos="fade-left")
         .cajon-b.color-acento-contenido.p-3
-          p.mb-0 #[b Estimado aprendiz]: hemos llegado al final del componente formativo. Esperamos que continúe recorriendo este camino lleno de aprendizajes y recuerde explorar los recursos que se encuentran disponibles. Diríjase al menú principal en donde encontrará la síntesis del tema abordado, una actividad didáctica, material complementario, entre otros recursos.
-
+          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 </template>
 
 <script>

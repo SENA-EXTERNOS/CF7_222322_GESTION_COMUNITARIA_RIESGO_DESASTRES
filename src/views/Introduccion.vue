@@ -9,9 +9,8 @@
           i.fas.fa-info
       h1 Introducción
     
-    p.animation-1 #[b Estimado aprendiz]: el componente formativo denominado “Ejecución promotoría para gestión del riesgo en comunidades” describe los contenidos a trabajar en el desarrollo del resultado de aprendizaje llamado “Ejecutar actividades de capacitación, promoción y concienciación en gestión del riesgo de desastres según programa de sensibilización”.
-    p.animation-1 Por medio del reconocimiento de la diversidad y los contextos culturales de las comunidades orientaremos estrategias a manera de sensibilización en prevención de riesgos. Para que estos últimos puedan ser afrontados con seriedad, ya sea a nivel nacional o local, se requiere un enfoque sistematizado que pueda ser implementado a grandes escalas, con compromisos y acciones.
-    p.animation-1 Explore con atención el siguiente vídeo, el cual le mostrará lo que debe tener presente a la hora de prevenir riesgos físicos, mentales, sanitarios y de trabajo.
+    p Apreciado aprendiz, bienvenido a este componente formativo, donde se describe el reconocimiento hacia la diversidad y los contextos culturales de las comunidades, al crear estrategias a manera de sensibilización en la prevención de riesgos. Para que estos riesgos puedan ser afrontados con responsabilidad, ya sea a nivel nacional o local, se requiere de un enfoque sistematizado, el cual pueda ser implementado a grandes escalas, incluyendo los compromisos y las acciones.
+    p.mb-5 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
 
     figure(data-aos="zoom-in")
       .video

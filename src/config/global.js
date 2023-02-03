@@ -121,24 +121,24 @@ export default {
   },
   complementario: [
     {
-      tema: 'Campañas de sensibilización.',
+      tema: 'Acciones de capacitación y sensibilización',
       referencia:
-        'Linda Zilbert. Perú. 2004. CAMPAÑAS DE SENSIBILIZACIÓN Una herramienta para la Gestión del Riesgo. Tomado de internet el 28/09/2022.',
+        'Zilbert, L. (2004). <i>CAMPAÑAS DE SENSIBILIZACIÓN Una herramienta para la Gestión del Riesgo</i>.',
       tipo: 'Guía',
       link:
         'https://docplayer.es/112483838-Campanas-de-sensibilizacion-una-herramienta-para-la-gestion-del-riesgo.html',
     },
     {
-      tema: 'Capacitación.',
+      tema: 'Acciones de capacitación y sensibilización',
       referencia:
-        'Escuela EGE con Ninfa Bella. Capacitaciones exitosas. Cuatro técnicas de capacitación. YouTube. Tomado de internet el 2/11/2022.',
+        'Escuela EGE con Ninfa Bella. (2022). <i>Técnicas de CAPACITACIÓN de Seguridad y Salud en el Trabajo</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=RDP5rTlfjBo',
     },
     {
-      tema: 'Sensibilización comunitaria.',
+      tema: 'Acciones de capacitación y sensibilización',
       referencia:
-        'Sublimarleo. Campaña de Sensibilización Ambiental. YouTube. Tomado de internet el 2/11/2022.',
+        'Sublimarleo. (2022). <i>Campaña de Sensibilización Ambiental</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=NBVlukkJJjY',
     },
@@ -160,7 +160,7 @@ export default {
         'es el acuerdo que se realiza entre dos o más personas sobre una temática específica y que pretende solucionar una problemática social. ',
     },
     {
-      termino: 'Concientización ',
+      termino: 'Concientización',
       significado:
         'es la acción y efecto resultante de crear conciencia entre la comunidad frente a un tema o fenómeno de importancia.',
     },
@@ -170,7 +170,7 @@ export default {
         'son todos aquellos documentos que tienen como finalidad llevar un registro de la presencia de personas en un evento que puede ser único o tener una continuidad. El seguimiento a la asistencia es una actividad que ayuda a gestionar la participación en eventos, clases o reuniones de todo tipo. ',
     },
     {
-      termino: 'Lluvia de ideas ',
+      termino: 'Lluvia de ideas',
       significado:
         'es una técnica educativa que toma en cuenta los puntos de vista de cada participante y aporta ideas para la solución de un problema específico. ',
     },
@@ -185,7 +185,7 @@ export default {
         'tiene por objetivo la concienciación de las personas. Para ello, se pueden realizar acciones de diversa índole: charlas, conferencias, exposiciones, talleres, formación de grupos, concursos, juegos, mercadillos, eventos deportivos o acciones directas en la calle.',
     },
     {
-      termino: 'Simposio ',
+      termino: 'Simposio',
       significado:
         'reunión en la que un grupo de expertos habla por turnos a los alumnos acerca de un tema. Este recurso se emplea para ampliar la información de un asunto o tema. ',
     },
@@ -198,24 +198,24 @@ export default {
   referencias: [
     {
       referencia:
-        'Alaman, Cristina. (2022). Capacitar Para la Reducción del Riesgo en Emergencia y Desastres. Oxfam.',
+        'Alaman, C. (2022). <i>Capacitar Para la Reducción del Riesgo en Emergencia y Desastres</i>. Oxfam.',
       link:
         'https://eird.org/pr14/cd/documentos/espanol/CaribeHerramientasydocumentos/Educacion/CapacitarParalaReducciondelRiesgoenEmergenciayDesastres.pdf',
     },
     {
       referencia:
-        'BYMBE. (2019). Manual para la sensibilización y estrategias de motivación. Tomado de internet el 2/11/2022.',
+        'BYMBE. (2019). <i>Manual para la sensibilización y estrategias de motivación</i>.',
       link: 'https://bymbe.eu/media/bymbe-io2-es.pdf',
     },
     {
       referencia:
-        'Universidad Cetys (2019). Medición del aprendizaje: Manual para profesores. Cetys.',
+        'Universidad Cetys. (2019). <i>Medición del aprendizaje: Manual para profesores</i>. Cetys.',
       link:
         'https://repositorio.cetys.mx/bitstream/60000/421/1/ManualDeMedici%C3%B3nDelAprendizaje2019.pdf',
     },
     {
       referencia:
-        'Zilbert, Linda. (2004). Campañas de sensibilización. Una herramienta para la Gestión del Riesgo. PREDES.',
+        'Zilbert, L. (2004). <i>Campañas de sensibilización. Una herramienta para la Gestión del Riesgo</i>. PREDES.',
       link:
         'https://docplayer.es/112483838-Campanas-de-sensibilizacion-una-herramienta-para-la-gestion-del-riesgo.html',
     },
