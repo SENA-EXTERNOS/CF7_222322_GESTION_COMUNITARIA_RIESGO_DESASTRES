@@ -442,17 +442,17 @@
     
     .row.justify-content-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
-        TabsA.color-primario
-          .BGIMG05.p-4(titulo="Criterios")
+        TabsC.color-primario
+          .BGIMG05.p-4.mb-3(titulo="Criterios")
             .h4 Criterios de evaluación
             p.mb-0 Son el referente específico para evaluar el aprendizaje de los aprendices ya que describen lo que se quiere valorar y lo que se espera que el alumno logre, tanto en competencias como en conocimiento.
-          .BGIMG05.p-4(titulo="Especificaciones")
+          .BGIMG05.p-4.mb-3(titulo="Especificaciones")
             .h4 Especificaciones
             p.mb-0 Estas permiten definir en los criterios de evaluación los resultados de aprendizaje y concretar lo que el aprendiz debe saber hacer y comprender en dicha asignatura. Los resultados deben ser medibles, observables y evaluables.
-          .BGIMG05.p-4(titulo="Finalidad")
+          .BGIMG05.p-4.mb-3(titulo="Finalidad")
             .h4 ¿Cuál es la finalidad de los criterios de evaluación y las especificaciones?
             p.mb-0 Ambos deben ser los referentes para la comprobación del grado de adquisición de las competencias y el logro de los objetivos de la etapa en las evaluaciones continua y final de la materia.
-          .BGIMG05.p-4(titulo="Origen")
+          .BGIMG05.p-4.mb-3(titulo="Origen")
             .h4 Criterios de evaluación según su origen
             ul.lista-ul--color.ms-4
               li
@@ -464,7 +464,7 @@
               li
                 <i class="fas fa-circle" style="color:#12263F; font-size: x-small"></i>
                 | De la institución educacional
-          .BGIMG05.p-4(titulo="Uso")
+          .BGIMG05.p-4.mb-3(titulo="Uso")
             .h4 Criterios de evaluación de acuerdo con la forma de su uso para juzgar
             ul.lista-ul--color.ms-4
               li
@@ -473,7 +473,7 @@
               li
                 <i class="fas fa-circle" style="color:#12263F; font-size: x-small"></i>
                 | Holísticos
-          .BGIMG05.p-4(titulo="Aplicación")
+          .BGIMG05.p-4.mb-3(titulo="Aplicación")
             .h4 Criterios de evaluación de acuerdo con el momento de aplicación de la situación de evaluación
             ul.lista-ul--color.ms-4
               li
