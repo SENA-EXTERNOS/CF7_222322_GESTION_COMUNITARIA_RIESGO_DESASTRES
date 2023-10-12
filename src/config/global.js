@@ -123,7 +123,7 @@ export default {
     {
       tema: 'Acciones de capacitación y sensibilización',
       referencia:
-        'Zilbert, L. (2004). <i>CAMPAÑAS DE SENSIBILIZACIÓN Una herramienta para la Gestión del Riesgo</i>.',
+        'Zilbert, L. (2004). <i>Campañas de sensibilización. Una herramienta para la Gestión del Riesgo.</i>.',
       tipo: 'Guía',
       link:
         'https://docplayer.es/112483838-Campanas-de-sensibilizacion-una-herramienta-para-la-gestion-del-riesgo.html',
@@ -131,7 +131,7 @@ export default {
     {
       tema: 'Acciones de capacitación y sensibilización',
       referencia:
-        'Escuela EGE con Ninfa Bella. (2022). <i>Técnicas de CAPACITACIÓN de Seguridad y Salud en el Trabajo</i>.',
+        'Escuela EGE con Ninfa Bella. (2022). <i>Técnicas de Capacitación de Seguridad y Salud en el Trabajo.</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=RDP5rTlfjBo',
     },

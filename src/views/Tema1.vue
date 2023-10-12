@@ -80,7 +80,7 @@
     .BGIMG02.px-md-5.px-4(data-aos="zoom-in")
       AcordionA(tipo="b" clase-tarjeta="BGR01")
         div(titulo="Concientizar")
-          p.mb-0 Concientizar sobre la importancia de los riesgos y su relación con la calidad de vida de la población, sus responsabilidades frente a los riesgos y su compromiso y participación en la gestión de riesgos de desastres.
+          p.mb-0 Concientizar sobre la importancia de los riesgos y su relación con la calidad de vida de la población, sus responsabilidades frente a los riesgos y su compromiso y participación en la Gestión de Riesgos de Desastres.
         div(titulo="Adelantar")
           p.mb-0 Adelantar acciones para que la sociedad entienda que la responsabilidad es de todos en la construcción de los riesgos, para que conozca y se sensibilice frente a la responsabilidad y el compromiso que deben asumir frente a la reducción de los riesgos y desastres.
         div(titulo="Diseñar")
@@ -349,7 +349,7 @@
         .row.justify-content-center
           .col-lg-4.order-lg-1.order-2(data-aos="fade-right")
             .h4.mb-5 Diagrama causa-efecto
-            p.mb-0 Es una herramienta usada para estudiar de manera estructurada todas las posibles causas que pueden generar variaciones en un proceso. Dentro de las causas más comunes se encuentran las 6M: variaciones en las máquinas o equipos, en el material de entrado al proceso, en el método o procedimiento, en los operarios o mano de obra, en el medio ambiente y en las medidas.
+            p.mb-0 Es una herramienta usada para estudiar de manera estructurada todas las posibles causas que pueden generar variaciones en un proceso. Dentro de las causas más comunes se encuentran las 6M: variaciones en las máquinas o equipos, en el material de entrada al proceso, en el método o procedimiento, en los operarios o mano de obra, en el medio ambiente y en las medidas.
           .col-lg-8.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
             img(src="@/assets/curso/tema1/img39.svg")
         .row.justify-content-center
@@ -532,37 +532,31 @@
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img60.svg")
           .col-lg-6
-            .h4 Evaluación diagnóstica
             p.mb-0 Evalúa las fortalezas, debilidades, conocimientos y habilidades de un alumno antes de la formación. Sirve para conocer el punto de partida, como una base desde la cual se trabajan los conocimientos que los alumnos van a adquirir durante el programa formativo.
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Evaluación formativa")
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img61.svg")
           .col-lg-6
-            .h4 Evaluación formativa
             p.mb-0 Evalúa el rendimiento de un aprendiz durante la formación. Por lo general, se produce regularmente durante todo el proceso de instrucción; es como un repaso para poder revisar la idoneidad de la formación recibida en caso de que fuese necesario realizar modificaciones al método de enseñanza.
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Evaluación sumativa")
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img62.svg")
           .col-lg-6
-            .h4 Evaluación sumativa
             p.mb-0 Mide el rendimiento de un aprendiz al final de la formación. Es la forma de saber qué ha aprendido y qué no.
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Evaluación por medias")
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img63.svg")
           .col-lg-6
-            .h4 Evaluación por medias
             p.mb-0 Compara el desempeño de un aprendiz con el de otros compañeros (as). Es una especie de evaluación grupal o “demográfica” que ayuda al docente a obtener medias y sacar conclusiones generales.
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Evaluación basada en objetivos")
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img64.svg")
           .col-lg-6
-            .h4 Evaluación basada en objetivos
             p.mb-0 Mide el rendimiento de un alumno frente a una meta o un objetivo específico o estándar. Consigue la obtención de datos y conclusiones más concretas sobre los procesos de enseñanza y aprendizaje.
         .row.justify-content-around.align-items-center.py-3.py-md-4(titulo="Evaluación intermedia o de referencia")
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img65.svg")
           .col-lg-6
-            .h4 Evaluación intermedia o de referencia
             p.mb-0 Evalúa el rendimiento del alumno por intervalos de tiempo. Normalmente coincide con el final de períodos de calificación: meses, trimestres, etc. Ayuda a predecir el rendimiento de los aprendices en las evaluaciones acumulativas de final de año.
             
     .BGIMG03.p-4.mb-4(data-aos="flip-up")
