@@ -1,0 +1,18 @@
+<svg id="Grupo_896287" data-name="Grupo 896287" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="123.405" height="154.394" viewBox="0 0 123.405 154.394">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.418" y1="0.267" x2="0.567" y2="1.018" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff1f00"/>
+      <stop offset="1" stop-color="#fe0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="-0.086" x2="0.5" y2="0.964" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="0.059" x2="0.5" y2="0.971" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#ff8400"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.428" y1="0.266" x2="0.734" y2="0.995" xlink:href="#linear-gradient"/>
+  </defs>
+  <path id="Trazado_621538" data-name="Trazado 621538" d="M84.624,25.823s58.282,8.691,56.748,77.2c0,0,15.849-10.225,10.225-38.343,0,0,58.792,115.54-45.5,115.54-84.866,0-66.46-68.507-35.275-95.6-8.86,17.041-6.474,25.051-1.021,40.731-1.363-14.315,3.84-25.051,10.225-36.811,12.952-23.859,17.722-40.216,2.044-48.4,18.406,5.624,26.584,31.7,26.074,48.57C108.141,88.706,122.456,42.693,84.624,25.823Z" transform="translate(-44.703 -25.823)" fill="url(#linear-gradient)"/>
+  <path id="Trazado_621539" data-name="Trazado 621539" d="M105.073,165.783c-21.511,1.3-72.6,0-49.591-70.04-1.023,19.429,6.645,18.406,14.826,35.957C66.218,80.577,92.8,91.484,91.1,55.356c9.543,13.634,10.767,34.372,7.158,48.4,12.685-10.866,27.947-49.078,11.658-67.924,23.1,20.89,23.1,54.292,16.289,79.513,14.315-1.363,24.538-15.678,25.9-28.63C165.059,148.742,127.567,164.42,105.073,165.783Z" transform="translate(-39.079 -14.457)" fill="url(#linear-gradient-2)"/>
+  <path id="Trazado_621540" data-name="Trazado 621540" d="M95.8,145.293c-24.88,0-36.469-7.5-41.581-30.335,9.543,14.655,17.073,16.816,23.177,17.722C61.717,117,75.351,88.032,84.211,75.423c-.515,9.738-5.453,26.242,7.158,39.876-1.7-24.2,26.245-27.607,22.836-62.03,7.839,29.651,2.644,52.948-4.432,63.054,9.885-1.365,20.452-4.432,28.289-15C131.587,137.454,111.818,145.293,95.8,145.293Z" transform="translate(-33.895 5.355)" fill="url(#linear-gradient-3)" style="mix-blend-mode: screen;isolation: isolate"/>
+  <path id="Trazado_621541" data-name="Trazado 621541" d="M61.055,70.05c5.793-5.111,9.842-9.1,8.52-17.468C68.041,42.868,57.56,41.59,60.627,32.645c-8.689,9.712-4.233,15.825.767,22.492C64.464,59.227,62.928,66.47,61.055,70.05Z" transform="translate(-32.211 -18.073)" fill="url(#linear-gradient-4)"/>
+</svg>
